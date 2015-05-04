@@ -1,7 +1,9 @@
 {
-    "knplabs": {
-        "knp-paginator-bundle": [
-            "config.yml"
-        ]
+    "knplabs/knp-paginator-bundle": {
+        "app/config/config.yml": "/home/mr/public_html/composeme-config-files/knplabs/knp-paginator-bundle/config.yml"
+    },
+    "liip/imagine-bundle": {
+    	"app/config/routing.yml" : "/home/mr/public_html/composeme-config-files/liip/imagine-bundle/routing.yml",
+    	"app/config/config.yml" : "/home/mr/public_html/composeme-config-files/liip/imagine-bundle/config.yml"
     }
 }
